@@ -4,8 +4,8 @@ This project contains three folders:
 - `chaincode` contains the chaincode
 - `client` contains the server application
 - `test-network` contains the Hyperledger Fabric network
-- 
-#### Setup
+
+### Setup
 Prerequisites:
 - Postman (download the collection [here](https://www.getpostman.com/collections/a49b05be5fb36c2b0163))
 - [Docker](https://www.docker.com/)
